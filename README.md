@@ -51,7 +51,7 @@
       <td colspan="2" align="center">
         <strong>Intel-N</strong> - Maintainer & Lead Developer
         <br />
-        <img src="https://lanyard.cnrad.dev/api/1320757088628244594?theme=light" alt="Intel-N Lanyard API">
+        <img src="https://lanyard.cnrad.dev/api/1319546861203361885?theme=light" alt="Intel-N Lanyard API">
       </td>
     </tr>
   </table>
