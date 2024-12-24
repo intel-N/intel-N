@@ -23,28 +23,36 @@
   </table>
 </div>
 
-<!-- Guestbook -->
+<!-- Developers Section -->
 <div align="center">
-  <h2>Guestbook</h2>
-  <p>Leave your thoughts and feedback below:</p>
+  <h2>Meet the Developers Behind the Intel API</h2>
   <table>
     <tr>
       <th>Name</th>
-      <th>Date</th>
-      <th>Message</th>
+      <th>Role</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/EduardoProfe666"><img width="24" src="https://avatars.githubusercontent.com/u/119138695?s=24" alt="EduardoProfe666" /> EduardoProfe666</a></td>
-      <td>12/20/2024, 10:09:04 PM</td>
-      <td>You're awesome ✨</td>
+      <td><strong>aka</strong></td>
+      <td>Developer</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/jstMW"><img width="24" src="https://avatars.githubusercontent.com/u/135103211?s=24" alt="jstMW" /> jstMW</a></td>
-      <td>12/12/2024, 3:07:40 AM</td>
-      <td>Stay cool :)</td>
+      <td><strong>axo</strong></td>
+      <td>Developer</td>
     </tr>
-    <!-- Add more rows as needed -->
+    <tr>
+      <td><strong>1tsubasa</strong></td>
+      <td>Developer</td>
+    </tr>
+    <tr>
+      <td><strong>Digital</strong></td>
+      <td>Developer</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://api.lanyard.rest/v1/users/1320757088628244594" target="_blank">Intel-N</a></strong></td>
+      <td>Maintainer & Lead Developer</td>
+    </tr>
   </table>
+  <p>Big thanks to the amazing developers who made this API possible! 🚀</p>
 </div>
 
 <!-- Footer -->
