@@ -48,8 +48,11 @@
       <td>Developer</td>
     </tr>
     <tr>
-      <td><strong><a href="https://api.lanyard.rest/v1/users/1320757088628244594" target="_blank">Intel-N</a></strong></td>
-      <td>Maintainer & Lead Developer</td>
+      <td colspan="2" align="center">
+        <strong>Intel-N</strong> - Maintainer & Lead Developer
+        <br />
+        <img src="https://lanyard.cnrad.dev/api/1320757088628244594?theme=light" alt="Intel-N Lanyard API">
+      </td>
     </tr>
   </table>
   <p>Big thanks to the amazing developers who made this API possible! 🚀</p>
