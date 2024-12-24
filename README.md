@@ -1,72 +1,59 @@
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/welcome.png" style="max-width: 100%;" alt="Welcome to Intel-N's GitHub" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" />
+  <h1>Welcome to Intel-N's Profile</h1>
+  <p>All the information you need is available at <a href="https://guns.lol/intel_n" target="_blank">guns.lol/intel_n</a></p>
   <br />
-  <br />
-
 </div>
 
-<!-- Social -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://brunnerliv.io">
-<strong>Visit my personal website </strong>
-<br />
-<br />
-<br />
-
-<p>
-
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
-</td>
-
-
-
-<p>
-<img height="100" alt="Music" src="images/music.gif"> 
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
+<!-- Social and Banner -->
 <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+  <table width="100%" align="center">
+    <tr>
+      <td align="center">
+        <a href="https://guns.lol/intel_n" target="_blank">
+          <img alt="Intel-N Info" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/globe.gif" height="120" />
+          <br />
+          <strong>Visit Intel-N's Official Page</strong>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/EduardoProfe666"><img width="24" src="https://avatars.githubusercontent.com/u/119138695?s=24&u=d9bcd5f0c7be3f068ca09aa003413f7ac13b1513&v=4" alt="EduardoProfe666" /> EduardoProfe666</a> |12/20/2024, 10:09:04 PM|You're awesome ✨|
-| <a href="https://github.com/jstMW"><img width="24" src="https://avatars.githubusercontent.com/u/135103211?s=24&u=ad1d90763a79923d741d8153bc5a0245307e2bd1&v=4" alt="jstMW" /> jstMW</a> |12/12/2024, 3:07:40 AM|Stay cool :)|
-| <a href="https://github.com/GabrielaSchmitt"><img width="24" src="https://avatars.githubusercontent.com/u/86369677?s=24&u=da27ba71f02843caf80ac33936f2fc260622a079&v=4" alt="GabrielaSchmitt" /> GabrielaSchmitt</a> |12/10/2024, 1:45:39 PM|Sensing traces of caffeine over here|
-| <a href="https://github.com/modelorona"><img width="24" src="https://avatars.githubusercontent.com/u/23018759?s=24&u=56fde256ded4238e8ecff48033b01a295905b1a5&v=4" alt="modelorona" /> modelorona</a> |12/8/2024, 12:35:13 PM|Love the vibes|
-| <a href="https://github.com/LovelyDev829"><img width="24" src="https://avatars.githubusercontent.com/u/99057103?s=24&u=2ab75ab5fecd17e5040d9884d67e7acfc5e2b6af&v=4" alt="LovelyDev829" /> LovelyDev829</a> |12/7/2024, 1:12:06 PM|Hey, Great repo. Really nice.|
-<!-- /Guestbook -->
+<div align="center">
+  <h2>Guestbook</h2>
+  <p>Leave your thoughts and feedback below:</p>
+  <table>
+    <tr>
+      <th>Name</th>
+      <th>Date</th>
+      <th>Message</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/EduardoProfe666"><img width="24" src="https://avatars.githubusercontent.com/u/119138695?s=24" alt="EduardoProfe666" /> EduardoProfe666</a></td>
+      <td>12/20/2024, 10:09:04 PM</td>
+      <td>You're awesome ✨</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/jstMW"><img width="24" src="https://avatars.githubusercontent.com/u/135103211?s=24" alt="jstMW" /> jstMW</a></td>
+      <td>12/12/2024, 3:07:40 AM</td>
+      <td>Stay cool :)</td>
+    </tr>
+    <!-- Add more rows as needed -->
+  </table>
+</div>
 
 <!-- Footer -->
-
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
+  <img height="120" alt="Thanks for visiting Intel-N" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <br />
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="No Frames" />
 </div>
